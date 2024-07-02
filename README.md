@@ -60,7 +60,7 @@ Ensure you have the following installed:
    ```bash
    cd client
    npm install
-   cd ../server
+   cd server
    npm install
    ```
 
@@ -73,20 +73,20 @@ Ensure you have the following installed:
    JWT_SECRET=your_jwt_secret
    ```
 
-   Create a `.env` file in the `client` directory and add your Firebase configurati
+   Create a `.env` file in the `client` directory and add your Cloudinary cloud name
 
 ### Running the Application
 
 1. Start the backend server:
    ```bash
    cd server
-   npm run server
+   npm run dev
    ```
 
 2. Start the frontend development server:
    ```bash
    cd client
-   npm run dev
+   npm start
    ```
 
 3. Open your browser and navigate to `http://localhost:3000` to see the application in action.
@@ -105,7 +105,7 @@ We welcome contributions in Chat-App Please follow these steps:
 ## Contact
  Email : abhi28awasthi@gmail.com
  <br/>
- Linkdin : https://www.linkedin.com/in/akhil-sachan-b0a30b304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ Linkdin : https://www.linkedin.com/in/abhishek-awasthi-3a86562a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
