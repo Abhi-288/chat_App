@@ -53,7 +53,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akhilsachan274/food_delivery.git
+   git clone https://github.com/Abhi-288/chat_App.git
    ```
 
 2. Install the dependencies for both the client and server:
