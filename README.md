@@ -106,7 +106,7 @@ We welcome contributions in Chat-App Please follow these steps:
  Email : abhi28awasthi@gmail.com
  <br/>
  Linkdin : https://www.linkedin.com/in/abhishek-awasthi-3a86562a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
- render [backend]: https://chat-app1-krf3.onrender.com
+
 
 
 
